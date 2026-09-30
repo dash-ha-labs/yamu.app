@@ -1,1 +1,0 @@
-body{color:#333;background:#000;place-items:center;height:100vh;margin:0;font-family:monospace;display:grid;overflow:hidden}p{letter-spacing:4px;animation:4s infinite alternate pulse}@keyframes pulse{0%{opacity:.1}to{opacity:.7;text-shadow:0 0 8px #ffffff1a}}
